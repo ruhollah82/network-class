@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "2222658121229a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9282f90f4d2b10c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "458dc646d4165c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os_chapter_6/OS - Chapter 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OS - Chapter 6"
+            }
+          },
+          {
+            "id": "c214ee33ea21c077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os_chapter_8/OS - Chapter 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OS - Chapter 8"
+            }
+          },
+          {
+            "id": "e5a093ff08ecab55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions"
+            }
+          },
+          {
+            "id": "114691b2e54ef389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session-1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee3988ca9ecb2179",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ef4185533a4756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca0eebdaa7233de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9fa8b3dd82c787de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f622d6349d71fa7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9c57c30bc9e9041e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f57e0a660bc0436b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20180948c262b16e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PDF/OS - Chapter 5.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OS - Chapter 5"
+            }
+          },
+          {
+            "id": "7490ec6ac8652ddd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDF/OS - Chapter 5.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OS - Chapter 5"
+            }
+          },
+          {
+            "id": "08688ff6e2261d06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "029719aa4927bd99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "session-1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of session-1"
+            }
+          },
+          {
+            "id": "cb8a9e9dedc06130",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "math-indicator-changer:Change math indicator": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "114691b2e54ef389",
+  "lastOpenFiles": [
+    "PDF/session-1.pdf",
+    "PDF",
+    "Questions.md",
+    "Untitled.md",
+    "PDF/Questions(6-10).pdf",
+    "os_chapter_8/OS - Chapter 8.md",
+    "PDF/OS - Chapter 8.pdf",
+    "os_chapter_8/Pasted image 20250903233542.png",
+    "os_chapter_8/Pasted image 20250903235354.png",
+    "os_chapter_6/OS - Chapter 6.md",
+    "os_chapter_10/Pasted image 20250902115437.png",
+    "os_chapter_10/Pasted image 20250902115620.png",
+    "os_chapter_10/Pasted image 20250902115322.png",
+    "os_chapter_10/Pasted image 20250902115049.png",
+    "os_chapter_10/Pasted image 20250902114932.png",
+    "os_chapter_10/OS - Chapter 10.md",
+    "os_chapter_10",
+    "os_chapter_8/Pasted image 20250615134630.png",
+    "os_chapter_8/Pasted image 20250612153054.png",
+    "os_chapter_8/Pasted image 20250612151936.png",
+    "os_chapter_8",
+    "PDF/OS - Chapter 6.pdf",
+    "os_chapter_5/OS - Chapter 5.md",
+    "os_chapter_1/OS - Chapter 1.md",
+    "PDF/OS - Chapter 1.pdf",
+    "os_chapter_2/OS - Chapter 2.md",
+    "PDF/OS - Chapter 2.pdf",
+    "os_chapter_3/OS - Chapter 3.md",
+    "PDF/OS - Chapter 3.pdf",
+    "os_chapter_4/OS - Chapter 4.md",
+    "PDF/OS - Chapter 5.pdf",
+    "2025-05-14.md",
+    "create a link.md",
+    "OS - Chapter 6.md",
+    "Untitled 5.md",
+    "OS - Chapter 5.md",
+    "Untitled 4.md",
+    "تمرین.md",
+    "Untitled 3.md",
+    "ساختار شکست پروژه.md",
+    "تحلیل طراحی.md",
+    "شب امتحانی.md",
+    "Phase_2.md",
+    "Explain Paper.md",
+    "Phase2_Documentation(1001).md",
+    "فاز یک پروژه پیشرفته.md",
+    "Untitled.canvas"
+  ]
+}
