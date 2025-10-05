@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "session-1"
             }
+          },
+          {
+            "id": "924c8d81fca4d328",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/session-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "session-2"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "session-1.md",
+                "file": "PDF/session-2.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of session-1"
+              "title": "Outline of session-2"
             }
           },
           {
@@ -224,12 +236,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "114691b2e54ef389",
+  "active": "924c8d81fca4d328",
   "lastOpenFiles": [
+    "session-2.md",
+    "PDF/session-2.pdf",
+    "session-1.md",
     "PDF/session-1.pdf",
     "PDF",
     "Questions.md",
-    "Untitled.md",
     "PDF/Questions(6-10).pdf",
     "os_chapter_8/OS - Chapter 8.md",
     "PDF/OS - Chapter 8.pdf",
@@ -254,9 +268,7 @@
     "os_chapter_2/OS - Chapter 2.md",
     "PDF/OS - Chapter 2.pdf",
     "os_chapter_3/OS - Chapter 3.md",
-    "PDF/OS - Chapter 3.pdf",
     "os_chapter_4/OS - Chapter 4.md",
-    "PDF/OS - Chapter 5.pdf",
     "2025-05-14.md",
     "create a link.md",
     "OS - Chapter 6.md",
@@ -271,7 +283,6 @@
     "Phase_2.md",
     "Explain Paper.md",
     "Phase2_Documentation(1001).md",
-    "فاز یک پروژه پیشرفته.md",
     "Untitled.canvas"
   ]
 }
