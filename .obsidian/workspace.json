@@ -214,9 +214,105 @@
               "icon": "lucide-file",
               "title": "session-10"
             }
+          },
+          {
+            "id": "8c5dacd469fb1138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session-11"
+            }
+          },
+          {
+            "id": "46c74b00068a4564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session-12"
+            }
+          },
+          {
+            "id": "4511f30026b0a946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session-13"
+            }
+          },
+          {
+            "id": "7d88e75fee6f421a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session-14"
+            }
+          },
+          {
+            "id": "4c0008674e93d699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session-15"
+            }
+          },
+          {
+            "id": "c855d4c24afb19c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session-16"
+            }
+          },
+          {
+            "id": "e828777b03f9466e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/session-17.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "session-17"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -337,13 +433,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "session-10.md",
+                "file": "PDF/session-17.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of session-10"
+              "title": "Outline of session-17"
             }
           },
           {
@@ -375,31 +471,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d15f6d986dbb4b59",
+  "active": "e828777b03f9466e",
   "lastOpenFiles": [
+    "session-17.md",
+    "PDF/session-17.pdf",
+    "session-16.md",
+    "PDF/session-16.pdf",
+    "session-15.md",
+    "PDF/session-15.pdf",
+    "session-14.md",
+    "PDF/session-14.pdf",
+    "session-13.md",
+    "PDF/session-13.pdf",
+    "session-12.md",
+    "PDF/session-12.pdf",
+    "session-11.md",
+    "PDF/session-11.pdf",
+    "session-10.md",
+    "fuzzy.md",
     "PDF/session-10.pdf",
     "session-9.md",
     "PDF/session-9.pdf",
     "session-8.md",
     "PDF/session-8.pdf",
     "session-7.md",
-    "PDF/session-7.pdf",
     "session-6.md",
-    "PDF/session-6.pdf",
     "session-5.md",
-    "PDF/session-5.pdf",
     "session-4.md",
-    "PDF/session-4.pdf",
     "session-3.md",
-    "PDF/session-3.pdf",
-    "session-10.md",
     "session-2.md",
     "session-1.md",
     "session-3(v2).md",
-    "PDF/session-2.pdf",
-    "PDF/session-3(v2).pdf",
-    "fuzzy.md",
-    "Untitled.base",
     "Questions.md",
     "os_chapter_8/OS - Chapter 8.md",
     "os_chapter_8/Pasted image 20250903233542.png",
@@ -416,13 +518,6 @@
     "os_chapter_8/Pasted image 20250612151936.png",
     "os_chapter_5/OS - Chapter 5.md",
     "os_chapter_1/OS - Chapter 1.md",
-    "os_chapter_2/OS - Chapter 2.md",
-    "os_chapter_3/OS - Chapter 3.md",
-    "os_chapter_4/OS - Chapter 4.md",
-    "2025-05-14.md",
-    "create a link.md",
-    "OS - Chapter 6.md",
-    "Untitled 5.md",
     "Untitled.canvas"
   ]
 }
